@@ -1,7 +1,7 @@
 This is a simple chat app in python where server and client can simultaneously talk with each other over a direct network.
 <br>
 
-<h2>How you can use it?</h2>
+<h2>How to use it?</h2>
 You need two devices: A laptop and a mobile phone with an internet connection. Provide the wifi access to your laptop from your mobile. You can do this with two mobile phones also.
 <br>
 You should have basic knowledge of Python.
