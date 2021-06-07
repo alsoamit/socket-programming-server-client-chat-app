@@ -3,7 +3,7 @@ serverPort = 12001
 serverSocket = socket(AF_INET, SOCK_STREAM)
 serverSocket.bind(('', serverPort))
 serverSocket.listen(200000)
-print("PRIVATE CHAT STARTED WITH AMIT")
+print("PRIVATE CHAT STARTED WITH YOUR MOBILE")
 while 1:
     connectionSocket, addr = serverSocket.accept()
     msg = connectionSocket.recv(1024)

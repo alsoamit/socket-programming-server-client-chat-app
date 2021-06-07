@@ -1,5 +1,6 @@
 from socket import *
-serverName = '25.224.131.236'
+# change this IP address to be your mobile's IP address
+serverName = '25.224.131.235' 
 serverPort = 12000
 while 1:
     clientSocket = socket(AF_INET, SOCK_STREAM)
